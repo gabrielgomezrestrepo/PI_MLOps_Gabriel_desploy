@@ -25,5 +25,5 @@ Este proyecto individal tiene como objetivo principal analizar las reseñas de j
 
 ## Interacción con la Api
 
-Para ver los endpoints disponibles y los parámetros que esperan, favor visitar el endpoint /docs
+Para ver los endpoints disponibles y los parámetros que esperan, favor visitar el endpoint https://pi-mlops-gabriel.onrender.com/docs
 
