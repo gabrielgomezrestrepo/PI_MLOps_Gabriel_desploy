@@ -1,7 +1,7 @@
 Soy Gabriel Gomez Restrepo, en este repositorio se presenta mi proyecto individual de Machine Learning Operations para la academia Henry. El link del despliegue de esta aplicación es el siguiente: 
 
 
-# Proyecto de Análisis de Sentimientos en Reseñas de Juegos de Steam
+# Proyecto de Machine Learning Operations con base de datos de juegos de Steam
 
 
 Este proyecto individal tiene como objetivo principal analizar las reseñas de juegos de la plataforma Steam para determinar el sentimiento asociado a cada reseña. Además, se implementan funciones de agrupación y filtros para proporcionar datos específicos a través de una API. Finalmente, el proyecto se despliega en la plataforma Render.
