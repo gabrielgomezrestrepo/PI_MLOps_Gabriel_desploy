@@ -1,7 +1,9 @@
-Soy Gabriel Gomez Restrepo, en este repositorio se presenta mi proyecto individual de Machine Learning Operations para la academia Henry. El link del despliegue de esta aplicación es el siguiente: 
+Soy Gabriel Gomez Restrepo, en este repositorio se presenta mi proyecto individual de Machine Learning Operations para la academia Henry. El link del despliegue de esta aplicación es el siguiente: https://pi-mlops-gabriel.onrender.com 
 
 
-# Proyecto de Machine Learning Operations con base de datos de juegos de Steam
+![ml image](image.png)
+
+# Proyecto 1 Individual de Machine Learning Operations con base de datos de juegos de Steam
 
 
 Este proyecto individal tiene como objetivo principal analizar las reseñas de juegos de la plataforma Steam para determinar el sentimiento asociado a cada reseña. Además, se implementan funciones de agrupación y filtros para proporcionar datos específicos a través de una API. Finalmente, el proyecto se despliega en la plataforma Render.
